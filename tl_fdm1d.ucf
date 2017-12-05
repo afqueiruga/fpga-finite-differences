@@ -1,0 +1,12 @@
+
+NET "clk40mhz" LOC = V10;
+
+NET "RX" LOC = R7;
+NET "TX" LOC = T7;
+
+NET "reset" LOC = V4;
+
+NET "led_reset" LOC = P4;
+NET "led_done" LOC = L6;
+NET "led_calc" LOC = F5;
+NET "led_tx" LOC = C2;

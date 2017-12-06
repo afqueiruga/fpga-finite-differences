@@ -1,4 +1,4 @@
-# Verilog Finite Different Solver
+# Verilog Finite Difference Solver
 
 Alejandro Queiruga c2013
 
